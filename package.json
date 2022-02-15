@@ -1,0 +1,16 @@
+{
+  "name": "superhero",
+  "version": "1.0.0",
+  "description": "api",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Shumaev",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "express-fileupload": "^1.2.1",
+    "uuid": "^8.3.2"
+  }
+}
